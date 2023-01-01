@@ -1,2 +1,9 @@
-# EmailMarketer
-Python | E-Mail Marketing Automation - This creating random mails and send ads
+# FazzTech - Email Marketing Automation
+
+Settings :
+
+* Entry your email server and email account in code
+
+* Write your ads
+
+and ready!
