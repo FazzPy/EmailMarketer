@@ -9,6 +9,8 @@ fake = Faker("tr_TR") # if you need change lang
 
 CUSTOMERS = []
 
+print("FazzTech | Email Marketer Setup")
+
 MAIN_MAIL = input("Main Mail Address : ")
 
 MAIN_PASSWORD = input("Main Mail Password : ")
@@ -18,6 +20,10 @@ SERVER = input("SMTP Server : ")
 SUBJECT = input("Subject : ")
 
 MESSAGE = input("Ads Message (Only words) : ")
+
+TEST = input("TEST MAIL ADDRESS : ")
+
+CUSTOMERS.append(TEST)
 
 COUNT = 0
 
